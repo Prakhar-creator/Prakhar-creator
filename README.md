@@ -24,3 +24,6 @@ Before, more of Introduction, let's start with how can I help you out.</br>
 
 # My Stats
 [![Prakhar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Prakhar-creator)](https://github.com/Prakhar-creator/github-readme-stats)
+
+# My Language's Stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Prakhar-creator)](https://github.com/Prakhar-creator/github-readme-stats)
