@@ -15,3 +15,4 @@ Before, more of Introduction, let's start with how can i help you out.</br>
 
 # My Skills-</br>
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB)
