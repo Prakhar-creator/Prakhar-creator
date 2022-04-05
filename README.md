@@ -2,7 +2,7 @@
 
 
 
-#**Hello, I am Prakhar Mishra**<br />
+# Hello, I am Prakhar Mishra<br />
 An Enthusiastic Developer, Designer and What you need inside an Engineer.</br>
 Before, more of Introduction, let's start with how can i help you out.</br>
                                              
