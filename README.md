@@ -28,6 +28,9 @@ Before, more of Introduction, let's start with how can I help you out.</br>
 # My Language's Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Prakhar-creator)](https://github.com/Prakhar-creator/github-readme-stats)
 
+# My Visitor's Stats
+[![Visitors](https://visitor-badge.glitch.me/badge?page_id=Prakhar-creator)](https://github.com/Prakhar-creator)
+
 ## 🌱 I'm currently learning
 
 - 📱 React Native
