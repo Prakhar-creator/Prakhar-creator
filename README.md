@@ -4,7 +4,7 @@
 
 
 
-                                             ** 👋 Hi, I’m @Prakhar-creator **</br>
+                                               *👋 Hi, I’m @Prakhar-creator *
                                              
 About Me:-</br>
 - 👀 I’m interested in coding, designing and development and what not!!!
