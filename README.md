@@ -2,11 +2,11 @@
 
 
 
-**Hello, I am Prakhar Mishra**<\br>
+**Hello, I am Prakhar Mishra**<br />
 An Enthusiastic Developer, Designer and What you need inside an Engineer.</br>
 Before, more of Introduction, let's start with how can i help you out.</br>
                                              
-# About Me:-</br>
+# About Me:-<br />
 - 👀 I’m interested in coding, designing and development and what not!!!
 - 🌱 I’m currently learning new skills , naah just revising my old learned skills.
 - 💞️ I’m looking to collaborate on UI development, WEB development,App Development, Problem solving statements.
