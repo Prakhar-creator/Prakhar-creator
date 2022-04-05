@@ -9,5 +9,9 @@ Before, more of Introduction, let's start with how can i help you out.</br>
 # About Me:-</br>
 - 👀 I’m interested in coding, designing and development and what not!!!
 - 🌱 I’m currently learning new skills , naah just revising my old learned skills.
-- 💞️ I’m looking to collaborate on UI development, WEB development, Problem solving statements.
+- 💞️ I’m looking to collaborate on UI development, WEB development,App Development, Problem solving statements.
 - 📫 How to reach me , bruh just ping me!!! wherever you want bruh!!!
+
+
+# My Skills-</br>
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
