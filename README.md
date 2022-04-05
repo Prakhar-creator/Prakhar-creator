@@ -4,7 +4,7 @@
 
 # Hello, I am Prakhar Mishra<br />
 An Enthusiastic Developer, Designer and What you need inside an Engineer.</br>
-Before, more of Introduction, let's start with how can i help you out.</br>
+Before, more of Introduction, let's start with how can I help you out.</br>
                                              
 # About Me:-<br />
 - 👀 I’m interested in coding, designing and development and what not!!!
