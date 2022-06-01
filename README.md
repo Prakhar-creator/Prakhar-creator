@@ -43,4 +43,4 @@ Before, more of Introduction, let's start with how can I help you out.</br>
 
 ## Connect with me, via my portfolio<br /> 
 
-[![Open Portfolio Website - v0.1.0](https://img.shields.io/badge/Open_Portfolio_Website-v0.1.0- informational?logo=Github&logoColor=white)](https://prakharmishraportfolio.netlify.app/)
+[![Open Portfolio Website - v0.1.0](https://img.shields.io/static/v1?label=Open+Portfolio+Website&message=v0.1.0&color=+informational&logo=Github&logoColor=white)](https://prakharmishraportfolio.netlify.app/)
